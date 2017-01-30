@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="oracle-jdbc">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/oracle-jdbc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
